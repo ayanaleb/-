@@ -1,0 +1,46 @@
+header {
+
+    height: 70px;
+    text-align: center;
+    padding: 15px;
+    font-family: sans-serif;
+    color: rgb(253, 253, 253);
+    background-image: url(https://bogatyr.club/uploads/posts/2023-03/thumbs/1679082361_bogatyr-club-p-belii-kvadrat-s-chernoi-ramkoi-foni-oboi-43.png);
+}
+.m1 {
+    text-align: center;
+    margin: 20px;
+    font-size: 20px;
+}
+.m2 {
+    text-align: center;
+    margin: 20px;
+    font-size: 20px;
+}
+.m3 {
+    text-align: center;
+    margin: 20px;
+    font-size: 20px;
+}
+.m4 {
+    text-align: center;
+    margin: 20px;
+    font-size: 20px;
+}
+.m5 {
+    text-align: center;
+    margin: 20px;
+    font-size: 20px;
+}
+main {
+    background-image: url(https://i.pinimg.com/736x/98/a4/ab/98a4ab3ea131352289a87146267608a9.jpg);
+    color: azure;
+}
+body{
+    background-color: black;
+}
+footer {
+    background-color: black;
+    color: aliceblue;
+    text-align: center;
+}
